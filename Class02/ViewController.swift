@@ -14,15 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-        //
-        
-        /*
-         
-        hi,sunny
-        
-        123
-         
-        */
+       
+        // 2019/4/15
         
         
     }
