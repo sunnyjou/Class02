@@ -22,9 +22,10 @@ class ViewController: UIViewController {
         } else {
             print("<= 0")
         }
-
-         
+        */
         
+        
+        /*
         let val : Int = 2
         switch val {
             case 1:
@@ -37,26 +38,49 @@ class ViewController: UIViewController {
                 print("***")
                 break
         }
+        */
         
-         
-         
+        
+        /*
         let arr = [1,11,111,1111]
         for a in arr {
          print(a)
         }
-         
         */
         
-
-
         
+        /*
+        var val : Int = 0
+        while (val < 3) {
+            print("val=\(val)")
+            val += 1
+            
+        }
+       */
+        
+        
+        /*
+        let strA = Add(first: 2, second: 5)
+        print(strA)
+        print("strA的值為：\( strA )")
+        */
+        
+        
+        /*
+        print("加總值為：\( Add(first: 2, second: 5) )")
+        */
         
     }
+    
+    
     
     
     func Add(first:Int, second:Int) -> Int {
-        return first+second
+        return first + second
     }
+    
+    
+    
 
     
 }
